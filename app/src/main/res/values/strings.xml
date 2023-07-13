@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EncoderApp</string>
+    <string name="selection_msg">Please choose action to perform</string>
+</resources>
